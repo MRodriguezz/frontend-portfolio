@@ -1,3 +1,54 @@
-/*
-Aqui escribe tu codigo de CSS.
-*/
+h1 {
+	font-family: arial;
+	float: right;
+	margin-bottom:-20px;
+}
+
+h2 {
+	color:#585858;
+	font-family: arial;
+	margin-left: 3%;
+}
+
+h4{
+	font-family: arial;
+	float: right;
+	clear: right;
+}
+
+body {
+	color:#4B4B4B;
+	font-family: arial;
+}
+
+p {
+	text-align: center;
+	font-family: arial;
+	font-weight: bold;
+}
+
+a {
+
+	text-decoration: none;
+	color:#4B4B4B;
+}
+
+.imgstyle{
+	border-radius: 5px;
+
+}
+
+.img1 {
+	float: left;
+	margin-left: 3%;
+}
+
+.img2 {
+	float: right; 
+	margin-right: 7%;
+}
+
+.img3 {
+	float: right; 
+	margin-right: 7%;
+} 

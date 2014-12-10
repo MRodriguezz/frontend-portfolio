@@ -30,9 +30,9 @@ Debemos asegurar que se hayan instalado correctamente, corre los siguientes coma
 		git --version tendria que mostrarte "git version 1.9.1"
 		nodejs -v tendria que mostrarte "v0.10.33"
 
-		Ten en cuenta que las versiones pueden ser superiores así que no te preocupes.
+		Ten en cuenta que las versiones pueden ser superiores asi que no te preocupes.
 
-Luego ejecuta estos comandos asegúrate  de hacerlo en la terminal:
+Luego ejecuta estos comandos asegurate de hacerlo en la terminal:
 
 		sudo apt-get install -y build-essential
 		sudo apt-get install curl
@@ -41,20 +41,20 @@ Luego ejecuta estos comandos asegúrate  de hacerlo en la terminal:
 
 Para asegurarnos que se instalo correctamente `npm` corre el siguiente comando:
 
-		npm -v tendría que mostrarte "1.4.28"
-		Ten en cuenta que las versiones pueden ser superiores así que no te preocupes.
+		npm -v tendria que mostrate "1.4.28"
+		Ten en cuenta que las versiones pueden ser superiores asi que no te preocupes.
 
 
 Por último, con `npm` instalado, debemos instalar Gulp corriendo:
 
 		sudo npm install -g gulp
 
-Para asegurarnos que se instalo correctamente `gulp` corre el siguiente comando:
+Para asegurarnos que se instalo correctamente `gul` corre el siguiente comando:
 
-		gulp -v tendría que mostrarte "[14:27:50] CLI version 3.8.10"
+		gulp -v "[14:27:50] CLI version 3.8.10"
 
-		Ten en cuenta que las versiones pueden ser superiores así que no te preocupes,
-		También puede cambiar la hora ya que mostrara la que tu tienes al momento de 
+		Ten en cuenta que las versiones pueden ser superiores asi que no te preocupes,
+		Tambien puede cambiar la hora ya que mostrara la que tu tienes al momento de 
 		que instales gulp.
 
 
@@ -102,8 +102,9 @@ a tu repositorio remoto en Github.
 
 ### Commit y Push
 
+
 		git add .
-		git commit -m 'Terminé el portafolio'
+		git commit -m 'Termine el portafolio'
 
 Luego debemos enviar el código a tu repositorio en Github.
 
@@ -120,3 +121,5 @@ instrucciones que dan allí.
 
 Ahora toca ver el código de tus compañeros y dejar tus comentarios. Entra al
 proyecto de un compañero y haz 3 sugerencias de su código usando **Issues**.
+
+#### Visita mi Proyecto: http://mrodriguezz.github.io/frontend-portfolio. 
